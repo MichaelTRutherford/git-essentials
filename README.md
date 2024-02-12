@@ -1,10 +1,5 @@
-# git-essentials
+# Git Essentials / Git For Everybody
 
-## Deployment notes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel turpis id odio feugiat consequat eu vel elit. Praesent quis bibendum orci. Vestibulum blandit porttitor congue. Nam cursus sed neque quis dapibus. Fusce ut tortor vestibulum, rutrum diam at, dictum justo. Vivamus molestie aliquet pharetra. Duis vestibulum velit lacinia, euismod nibh et, eleifend nisl. Aliquam erat volutpat. In iaculis, sem vel feugiat aliquam, urna nibh commodo justo, semper aliquet metus diam consequat urna. Mauris sit amet pretium tortor. Curabitur in tincidunt nisi. Sed malesuada porta lectus, sit amet finibus sapien commodo ut. Nam laoreet erat id velit rutrum convallis at ut sapien. Nunc vitae varius erat.
+> This is a course to teach you how to use everyday git.
 
-## Staging notes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel turpis id odio feugiat consequat eu vel elit. Praesent quis bibendum orci. Vestibulum blandit porttitor congue. Nam cursus sed neque quis dapibus. Fusce ut tortor vestibulum, rutrum diam at, dictum justo. Vivamus molestie aliquet pharetra. Duis vestibulum velit lacinia, euismod nibh et, eleifend nisl. Aliquam erat volutpat. In iaculis, sem vel feugiat aliquam, urna nibh commodo justo, semper aliquet metus diam consequat urna. Mauris sit amet pretium tortor. Curabitur in tincidunt nisi. Sed malesuada porta lectus, sit amet finibus sapien commodo ut. Nam laoreet erat id velit rutrum convallis at ut sapien. Nunc vitae varius erat.
-
-## How to use this repo notes
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel turpis id odio feugiat consequat eu vel elit. Praesent quis bibendum orci. Vestibulum blandit porttitor congue. Nam cursus sed neque quis dapibus. Fusce ut tortor vestibulum, rutrum diam at, dictum justo. Vivamus molestie aliquet pharetra. Duis vestibulum velit lacinia, euismod nibh et, eleifend nisl. Aliquam erat volutpat. In iaculis, sem vel feugiat aliquam, urna nibh commodo justo, semper aliquet metus diam consequat urna. Mauris sit amet pretium tortor. Curabitur in tincidunt nisi. Sed malesuada porta lectus, sit amet finibus sapien commodo ut. Nam laoreet erat id velit rutrum convallis at ut sapien. Nunc vitae varius erat.
+Course created by Kalob Taulien
